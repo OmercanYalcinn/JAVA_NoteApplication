@@ -1,5 +1,3 @@
-# JAVA_NoteApplication
-
 # 📝 JavaFX Not Defteri
 
 Bu proje, **JavaFX** kullanılarak geliştirilmiş basit bir **Not Defteri Uygulaması**dır.
@@ -52,7 +50,7 @@ NotDefteriFX/
 
 ## 📸 Ekran Görüntüsü (Örnek)
 
-*(Buraya uygulamanın ekran görüntüsünü ekle)*
+*![NotebookApp Screenshot](images/screenshot01.png)*
 
 ## 🚀 Geliştirme Fikirleri
 
@@ -63,5 +61,4 @@ NotDefteriFX/
 
 ---
 
-👨‍💻 Hazırlayan: *Senin Adın*
-📌 Bu proje hem **JavaFX** hem de **dosya işlemleri** öğrenmek için güzel bir örnektir.
+👨‍💻 Hazırlayan: *Ömercan Yalçın*
