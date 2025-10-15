@@ -57,7 +57,6 @@ NotDefteriFX/
 * 🔍 Notlarda arama özelliği
 * ✏️ Not düzenleme (update)
 * 🎨 Daha modern arayüz tasarımı (CSS ile)
-* ☁️ Notları lokal yerine bulutta saklama
 
 ---
 
