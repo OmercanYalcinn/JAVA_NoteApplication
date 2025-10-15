@@ -50,7 +50,7 @@ NotDefteriFX/
 
 ## 📸 Ekran Görüntüsü (Örnek)
 
-*![NotebookApp Screenshot](images/screenshot01.png)*
+![NotebookApp Screenshot](images/screenshot01.png)
 
 ## 🚀 Geliştirme Fikirleri
 
